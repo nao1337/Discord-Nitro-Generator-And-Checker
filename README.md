@@ -1,10 +1,10 @@
-#Discord Nitro Generator & Checker 🚀🎉
+# Discord Nitro Generator & Checker 🚀🎉
 
-#How to install? 🌍
+# How to install? 🌍
 Open install.bat 30-60 second wait and launch the main.py
 That is all :)
 
-#How the use? 🤝
+# How the use? 🤝
 Enter as many numbers as you want it to check and then wait :)
 That is all :)
 
